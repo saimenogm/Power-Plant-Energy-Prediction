@@ -20,3 +20,12 @@
     * RMSE (Root Mean Squared Error)
     * R2_SCORE (Coefficient of Determination)
 
+
+#### Features
+
+    - Temperature (T)
+    - Ambient Pressure (AP)
+    - Relative Humidity (RH)
+    - Exhaust Vacuum (V)
+    - Net hourly electrical energy output (PE)
+
